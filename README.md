@@ -41,20 +41,20 @@ Features Implemented
  Project Structure
 
 assignment5/
- ┣ public/
- ┃ ┣ index.html
- ┃ ┣ manifest.json
- ┃ ┗ robots.txt
- ┣ src/
- ┃ ┣ App.js
- ┃ ┣ App.css
- ┃ ┣ index.js
- ┃ ┣ index.css
- ┃ ┣ useFetch.js
- ┃ ┗ reportWebVitals.js
- ┣ package.json
- ┣ package-lock.json
- ┗ README.md
+     public/
+       index.html
+       manifest.json
+       robots.txt
+     src/
+       App.js
+       App.css
+       index.js
+       index.css
+       useFetch.js
+       reportWebVitals.js
+     package.json
+     package-lock.json
+     README.md
 
  How the Project Works
 
