@@ -1,4 +1,3 @@
-CleanWave Laundry – Assignment 5
 
 Custom React Hook (useFetch) + API Fetching Project
 
@@ -20,28 +19,28 @@ GitHub Repository
 
 Features Implemented
 
-✔ Custom Hook useFetch()
+Custom Hook useFetch()
 
-✔ Fetching & displaying data from a public API
+ Fetching & displaying data from a public API
 
-✔ Loading, Error & Success states
+ Loading, Error & Success states
 
-✔ Functional components
+ Functional components
 
-✔ Modular, clean code
+ Modular, clean code
 
-✔ Responsive UI
+ Responsive UI
 
-✔ Built using Create React App (CRA)
+ Built using Create React App (CRA)
 
-✔ Fully deployed on Netlify
+ Fully deployed on Netlify
 
 
 
  Project Structure
 
 assignment5/
-     public/
+    public/
        index.html
        manifest.json
        robots.txt
@@ -71,7 +70,6 @@ Returns { data, loading, error }
 
 Can be reused across multiple components
 
-
 Usage example:
 
 const { data, loading, error } = useFetch(url);
@@ -87,10 +85,6 @@ Displays cards (image, name, price)
 Shows “Loading…” while API loads
 
 Shows error message on failure
-
-
-
----
 
  How to Run Locally
 
